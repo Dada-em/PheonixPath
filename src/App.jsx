@@ -8,7 +8,7 @@ import ConditionsPage from './Pages/ConditionsPage/ConditionsPage.jsx'
 import TestimonialPage from './Pages/TestimonialPage/TestimonialPage.jsx'
 import ContactUs from './Pages/ContactUs/ContactUs.jsx'
 import FooterPage from './Pages/FooterPage/FooterPage.jsx'
-import CustomFloatingZocdocButton from './Components/Zodoc/zodoc.jsx'
+// import CustomFloatingZocdocButton from './Components/Zodoc/zodoc.jsx'
 
 function App() {
 
@@ -21,7 +21,7 @@ function App() {
       <TestimonialPage />
       <ContactUs />
       <FooterPage />
-      <CustomFloatingZocdocButton/>
+      {/* <CustomFloatingZocdocButton/> */}
     </>
   )
 }

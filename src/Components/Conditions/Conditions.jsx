@@ -92,6 +92,15 @@ const Conditions = () => {
             <img src={question} />
             <p style={{fontWeight:"bold", marginBottom: "0px"}}>Still have questions about the conditions we treat?</p>
             <p style={{color:"#475467", marginBottom: "0px"}}>Our care team is here to listen and help you find the support you need.</p>
+            <button className='consultation-btn'>
+                <a
+                    href="https://care.headway.co/providers/oluwakemi-okunlola?utm_source=pem&utm_medium=direct_link&utm_campaign=168640"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    Start Your Consultation
+                </a>
+            </button>
         </div>
     </div>
   );
