@@ -25,7 +25,7 @@ const Home = () => {
           <p className='big-txt'>Your Path to Mental Wellness <br /> Starts Here</p>
           <hr />
           <p>At Phoenix Path, we provide compassionate, evidence-based telepsychiatry and counseling for individuals ages 6 and above. We specialize in supporting those struggling with ADHD, depression, anxiety, and other mental health challenges. Our goal is to make care simple, supportive, and accessible by meeting you where you are and working with you toward lasting well-being.</p>
-          <button><a href="https://care.headway.co/providers/oluwakemi-okunlola?utm_source=pem&utm_medium=direct_link&utm_campaign=168640" target="_blank" rel="noopener noreferrer">Schedule a Consultation</a></button>
+          <button><a href="https://care.headway.co/providers/oluwakemi-okunlola?utm_source=pem&utm_medium=direct_link&utm_campaign=168640" target="_blank" rel="noopener noreferrer">Book an appointment</a></button>
         </div>
 
         <ScrollLink to="services-section" smooth={true} duration={500}>

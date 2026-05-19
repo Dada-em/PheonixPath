@@ -98,7 +98,7 @@ const Conditions = () => {
                     target="_blank"
                     rel="noopener noreferrer"
                 >
-                    Start Your Consultation
+                    Book an Appointment
                 </a>
             </button>
         </div>
