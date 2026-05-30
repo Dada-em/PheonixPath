@@ -21,7 +21,7 @@ function App() {
       <TestimonialPage />
       <ContactUs />
       <FooterPage />
-      <CustomFloatingZocdocButton/>
+      {/* <CustomFloatingZocdocButton/> */}
     </>
   )
 }
